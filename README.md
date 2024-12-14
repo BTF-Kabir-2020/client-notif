@@ -1,4 +1,4 @@
-[Live Preview](https://btf-kabir-2020.github.io/Pomodoro-App/)
+[Live Preview](https://BTF-Kabir-2020.github.io/client-notif/)
 
 # Getting Started with Create React App
 
